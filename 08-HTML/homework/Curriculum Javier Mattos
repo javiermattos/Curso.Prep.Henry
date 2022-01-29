@@ -1,0 +1,63 @@
+<html>
+<head>
+    <title> Curriculum HTML Javier Mattos</title>
+    <script type='text/javascript'></script>
+                            <link rel = "stylesheet" href = ./stylescurriculum.css>
+    <body>
+        <div id="Javier"> Javier Mattos CV</div>
+            <Span id = ¨Span1id¨> Una breve descripción personal:</Span>
+            <div<div class = "divClass"></div>>
+                <ul>
+                    <li>
+                        <img src= foto.jpeg>
+                    </li>
+                </ul>
+            </div>
+            <span class = "description">Soy una persona que ante todo intenta siempre ser sensata
+                y racional ante las vicisitudes con las que uno se encuentra.
+                Soy capaz de trabajar en equipo así como también hacerlo en 
+                soledad. Disfruto de compartir los logros de quienes me rodean
+                tanto como los mios, y de ayudar a lograr objetivos.  
+
+            </span>
+             <p> Educación </p>
+             <div class= "1">
+                 <h1> Egresado del Complejo Dr. Francisco de Gurruchaga, en el año 2007 en el polimodal orientado a informática</h1>
+                 <h2> Hasta 5to año de inglés cursado en La Cultura Inglesa, Rosario. </h2>
+                 <h3> Cursando el cuarto año de la carrera de Antropología en la Universidad Nacional De Rosario</h3>
+             </div>
+             <p>Experiancia laboral</p>
+             <div>
+                 <h1>Cadete en King midas Tour Operator entre el 2008 y 2010</h1>
+                 <h2>Atención al público en librería Subterranea entre el 2011 y 2012</h2>
+                 <h3>Vendedor de Seguros en PyD Call Center en 2013 </h3>
+                 <h4>Empleado Administrativo en Scopesci, auditorías de publicidad en vía pública en 2014</h4>
+                 <h5>Ayudante de Repartidor de Galletitas Granix 2015 al 2017</h5>
+                 <h6>Cadete en PedidosYa 2018 a la actualidad</h6>
+             </div>
+                <pan>Skills</pan>
+             <div>
+                 <h1>Poseo un pensamiento lógico, fui bueno en matemáticas cuando estaba en la escuela.</h1>
+                 <h2>Soy una persona creativa a la hora de resolver problemas</h2>
+                 <h3>Soy buen compañero de trabajo y se reconocer a quienes trabajan con migo</h3>
+             </div>
+               <div>
+                 <p>hobies</p>
+                 <h2>arte</h2>
+                 <h3>musica</h3>
+                 <h4>literatura</h4>
+                 <h4>cine</h4>
+             </div>
+             <div>
+             <span>Estoy en Henry porque la relación entre la calidad del aprendizaje,
+                 los tiempos cortos del curso hiper intensivo y la posibilidad de conseguir
+                 un trabajo que ofrece me parecieron hiper adaptables a mi vida actualmente
+                 y a lo que estoy buscando, que es desarrollar un nuevo conocimiento aplicado 
+                 que me permita incertarme en el mercado laboral actual como oficiante.
+                 Es un desafío que me seduce muchisimo, tanto desde lo económico como desde
+                 lo intectual.
+             </span>
+            </div>
+    </body>
+</head>
+</html>
